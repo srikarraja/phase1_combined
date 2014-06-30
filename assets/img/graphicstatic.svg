@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 12.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 51448)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_svg "http://www.w3.org/2000/svg">
+	<!ENTITY ns_xlink "http://www.w3.org/1999/xlink">
+]>
+<svg  version="1.1" id="Layer_1" xmlns="&ns_svg;" xmlns:xlink="&ns_xlink;" width="101" height="101" viewBox="0 0 101 101"
+	 overflow="visible" enable-background="new 0 0 101 101" xml:space="preserve">
+<circle fill="#FFFFFF" stroke="#000000" stroke-dasharray="12" cx="50.5" cy="50.5" r="50"/>
+<circle fill="#FFFFFF" stroke="#000000" stroke-dasharray="12" cx="50.5" cy="50.5" r="50"/>
+<circle fill="#00A0C6" stroke="#00A0C6" cx="50.5" cy="50.5" r="40"/>
+<path fill="#FFFFFF" stroke="#FFFFFF" d="M26.432,65.475c0,1.191-1.037,2.157-2.315,2.157l0,0c-1.278,0-2.314-0.966-2.314-2.157
+	V37.228c0-1.191,1.037-2.157,2.314-2.157l0,0c1.278,0,2.315,0.966,2.315,2.157V65.475z"/>
+<path fill="#FFFFFF" stroke="#FFFFFF" d="M36.61,65.623c0,1.191-1.036,2.156-2.314,2.156l0,0c-1.278,0-2.314-0.965-2.314-2.156
+	V37.375c0-1.191,1.037-2.157,2.314-2.157l0,0c1.278,0,2.314,0.966,2.314,2.157V65.623z"/>
+<path fill="#FFFFFF" stroke="#FFFFFF" d="M47.413,65.777c0,1.191-1.036,2.156-2.314,2.156l0,0c-1.278,0-2.314-0.965-2.314-2.156
+	V37.53c0-1.191,1.037-2.157,2.314-2.157l0,0c1.278,0,2.314,0.966,2.314,2.157V65.777z"/>
+<path fill="#FFFFFF" stroke="#FFFFFF" d="M57.906,66.395c0,1.191-1.035,2.156-2.314,2.156l0,0c-1.277,0-2.314-0.965-2.314-2.156
+	V38.147c0-1.191,1.037-2.157,2.314-2.157l0,0c1.279,0,2.314,0.966,2.314,2.157V66.395z"/>
+<path fill="#FFFFFF" stroke="#FFFFFF" d="M67.938,66.24c0,1.191-1.035,2.157-2.314,2.157l0,0c-1.277,0-2.314-0.966-2.314-2.157
+	V37.993c0-1.191,1.037-2.157,2.314-2.157l0,0c1.279,0,2.314,0.966,2.314,2.157V66.24z"/>
+<path fill="#FFFFFF" stroke="#FFFFFF" d="M78.123,67.32c0,1.191-1.037,2.157-2.314,2.157l0,0c-1.278,0-2.314-0.966-2.314-2.157
+	V39.073c0-1.191,1.036-2.157,2.314-2.157l0,0c1.277,0,2.314,0.966,2.314,2.157V67.32z"/>
+</svg>
